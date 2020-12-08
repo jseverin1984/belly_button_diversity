@@ -1,0 +1,11 @@
+.jumbotron{
+    background-image: url("../img/virus.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: rgb(16, 207, 207);
+}
+
+body {
+    background-color: rgb(16, 207, 207);
+    font-family: 'Courier New', Courier, monospace;
+}
